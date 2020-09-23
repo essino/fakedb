@@ -1,4 +1,6 @@
+{
 [
   {"id": 1, "author":"Jane Austen", "booktitle":"Emma"},
   {"id": 2, "author":"Charlotte Brontë", "booktitle":"Jane Eyre"}
 ]
+}

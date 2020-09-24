@@ -1,6 +1,7 @@
-{"books":
-[
-  {"id": 1, "author":"Jane Austen", "booktitle":"Emma"},
-  {"id": 2, "author":"Charlotte Brontë", "booktitle":"Jane Eyre"}
-]
-}
+{"events":
+	[
+	  {"id": 1, "name":"Fireworks", "time":"31.12.2020 at 0", "place":"Kansalaistori"},
+	  {"id": 2, "name":"Love Actually", "time":"24.9.2020 at 19", "place":"Tennispalatsi"}
+	]
+	}
+

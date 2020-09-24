@@ -1,6 +1,6 @@
-
-  [
-    {"id": 1, "author":"Fireworks", "booktitle":"Cats"},
-    {"id": 2, "author":"Love Actually", "booktitle":"House"},
-  ]
-
+{"books":
+[
+  {"id": 1, "author":"Jane Austen", "booktitle":"Emma"},
+  {"id": 2, "author":"Charlotte Brontë", "booktitle":"Jane Eyre"}
+]
+}
